@@ -1,0 +1,1 @@
+# sublime-vscode-default-theme
